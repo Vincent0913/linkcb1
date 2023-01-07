@@ -20,6 +20,12 @@ html{
     background-color: #3a3c3c32;
 }
 
+.p1{
+    width: 70%;
+    height: auto;
+    border-radius: 15px;
+}
+
 .box{
     width: 100%;
     height: auto;
@@ -33,7 +39,7 @@ html{
     .b1{
         color: $--cc;
         width: 95vw;
-        height: 40vh;
+        height: 30vh;
         background-color: rgba(66, 155, 134, 0.716);
         display: flex;
         justify-content: center;
@@ -52,7 +58,7 @@ html{
 
     .b2{
         width: 95vw;
-        height: 40vh;
+        height: 30vh;
         background-color: rgba(66, 155, 134, 0.716);
         display: flex;
         justify-content: center;

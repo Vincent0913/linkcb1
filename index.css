@@ -17,6 +17,12 @@ html {
   background-color: rgba(58, 60, 60, 0.1960784314);
 }
 
+.p1 {
+  width: 70%;
+  height: auto;
+  border-radius: 15px;
+}
+
 .box {
   width: 100%;
   height: auto;
@@ -30,7 +36,7 @@ html {
 .box .b1 {
   color: rgb(22, 81, 152);
   width: 95vw;
-  height: 40vh;
+  height: 30vh;
   background-color: rgba(66, 155, 134, 0.716);
   display: flex;
   justify-content: center;
@@ -46,7 +52,7 @@ html {
 }
 .box .b2 {
   width: 95vw;
-  height: 40vh;
+  height: 30vh;
   background-color: rgba(66, 155, 134, 0.716);
   display: flex;
   justify-content: center;
